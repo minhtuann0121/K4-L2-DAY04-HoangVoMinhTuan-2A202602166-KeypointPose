@@ -63,6 +63,7 @@ Ngược lại thì model học sai định nghĩa lớp person: nó coi mọi v
 
 ## 4. Sau khi so visibility report với bạn cùng nhóm
 
-- Khớp lệch `%v=1` nhiều nhất: `______` (bạn `___%` / họ `___%`)
-- Nguyên nhân là **guideline chưa rõ** hay **một trong hai bên gán sai**:
-- Luật mới bổ sung vào mục 2 sau khi thống nhất:
+**Không áp dụng - bài làm cá nhân.** Tôi gán nhãn một mình, không có bạn cùng nhóm để so bảng
+đếm, nên không có số lệch `%v=1` nào để ghi và không có luật nào được chốt thêm sau kiểm chéo.
+Các luật đang dùng nằm ở mục 2 (tôi tự chốt); phần tự kiểm thay cho kiểm chéo là ba lượt của
+Chặng 4, kết quả ghi ở `reports/report_v1.md` mục 1 và mục 2.
